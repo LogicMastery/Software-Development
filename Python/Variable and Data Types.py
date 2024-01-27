@@ -11,3 +11,18 @@
 
 # Then change the value of the variable to a new message, and print the new message.
 
+simple_message = ("Hello, this is simple message.py")
+
+print(simple_message)
+
+simple_message = ("Hello, this is a new type of my message :)))")
+
+print(simple_message)
+
+simple_messages = ("Hello, this is simple messages :)")
+
+print(simple_messages)
+
+simple_messages = ("Hello, this is a new type of a message")
+
+print(simple_messages)
