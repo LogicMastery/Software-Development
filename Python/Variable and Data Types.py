@@ -37,3 +37,10 @@ name = ("ada lovelance")
 
 print(name.upper())
 print(name.lower())
+
+# seperating the first name and the last name to a another variable
+first_name = "ada"
+last_name = "lovelance"
+fullname = f"{first_name} {last_name}"
+
+print(fullname)
