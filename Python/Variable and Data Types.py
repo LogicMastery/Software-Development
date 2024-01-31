@@ -27,4 +27,13 @@ simple_messages = ("Hello, this is a new type of a message")
 
 print(simple_messages)
 
+# Making the first and last name capital letter
+name = ("ada lovelance")
 
+print(name.title())
+
+# By printing upper() and lower() it will make the name variable uppercase and lowercase
+name = ("ada lovelance")
+
+print(name.upper())
+print(name.lower())
